@@ -10,6 +10,8 @@ namespace HelloWorld2_CMD
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Tjena");
         }
+    }
     }
 }
